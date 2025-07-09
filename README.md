@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shoaib 👋
 
-<!--
-**codewithshoaib-dev/codewithshoaib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught web developer building fast, clean, and production-ready web apps. My current stack focuses on **React, Tailwind CSS, Django REST Framework**, and modern deployment practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- Building a portfolio of client-focused SaaS tools and business dashboards  
+- Developing clean admin panels, resume builders, and CMS-powered marketing sites  
+- Improving full-stack workflows with **React + Vite** and **Django REST APIs**
+
+---
+
+## 🛠️ Tech I Use
+
+- **Frontend:** React, Vite, Tailwind CSS, Axios  
+- **Backend:** Python, Django REST Framework, PostgreSQL  
+- **Tools:** VS Code, Figma, Git, Netlify, Render, DigitalOcean  
+- **Currently Exploring:** PDF generation workflows, advanced state management, freelance client management systems
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** www.linkedin.com/in/shoaib-gondal-a01a28358
+- **Email:** codewithshoaib@gmail.com 
+
+---
+
+> I care about clean UI, efficient code, and building useful, reliable tools for businesses.
