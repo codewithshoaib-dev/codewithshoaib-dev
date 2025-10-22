@@ -1,35 +1,36 @@
-# Hi, I'm Shoaib 👋
+Hi, I'm Shoaib 👋
 
-I'm a full-stack web developer focused on helping SaaS startups **launch fast and stay lean**. I specialize in building and maintaining production-grade software using **React, Tailwind CSS, and Django REST Framework**.
+I'm a full-stack web developer focused on building and scaling SaaS products — fast, clean, and production-ready.
+I specialize in developing full SaaS web builds using React, Tailwind CSS, and Django REST Framework, with an emphasis on speed, reliability, and long-term maintainability.
 
-I work with startup founders to ship clean landing pages, Stripe-powered subscriptions, and custom dashboards — fast, reliable, and ready for growth.
+🚀 What I Build
 
----
+Core SaaS systems — auth, billing, dashboards, and admin panels
 
-## 🚀 What I Do
+Conversion-focused landing pages and waitlist pages
 
-- Build SaaS MVPs and core features like auth, billing, and dashboards  
-- Develop mobile-friendly landing pages and waitlist pages that convert  
-- Maintain and extend existing products with scalable, clean code  
-- Integrate tools like Stripe, SendGrid, and Zapier to streamline operations
+Scalable and maintainable backend APIs with Django REST Framework
 
----
+Integrations with Stripe, SendGrid, Zapier, and other SaaS tools
 
-## 🛠️ Tech I Use
+Feature upgrades and ongoing maintenance for existing SaaS products
 
-- **Frontend:** React, Vite, Tailwind CSS, Axios  
-- **Backend:** Python, Django REST Framework, PostgreSQL  
-- **Dev & Ops:** Git, Netlify, Render, Linode
-- **Workflow Tools:** VS Code, Figma, Postman  
-- **Currently Exploring:** Client onboarding flows, PDF generation, freelance dev ops
+🛠️ Tech Stack
 
----
+Frontend: React, Vite, Tailwind CSS, Axios
 
-## 📫 Contact
+Backend: Django REST Framework, PostgreSQL
 
-- **LinkedIn:** [linkedin.com/in/shoaib-gondal-a01a28358](https://www.linkedin.com/in/shoaib-gondal-a01a28358)
-- **Email:** codewithshoaib@gmail.com  
+Infra & Deployment: Render, Netlify, Linode
 
----
+Tools: VS Code, Figma, Postman
 
-> I care about clean UI, fast delivery, and practical tools that actually help businesses grow.
+Currently Exploring: Client onboarding flows, automated deployments, and PDF generation
+
+📫 Contact
+
+Email: shoaib@gosaasbuild.com
+
+LinkedIn: linkedin.com/in/shoaib-gondal-a01a28358
+
+I care about clean UI, fast delivery, and practical SaaS builds that help startups move from idea to launch — efficiently and affordably.
