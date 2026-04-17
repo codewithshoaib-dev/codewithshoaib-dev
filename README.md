@@ -1,35 +1,34 @@
-# Hi, I'm Shoaib 
+# Hi, I'm Shoaib
 
-I'm a full-stack web developer focused on **building and scaling SaaS products** , fast, clean, and production-ready.  
-I specialize in developing full SaaS web builds using **React, Tailwind CSS, and Django REST Framework**, with an emphasis on speed, reliability, and long-term maintainability.
+I'm a full-stack web developer focused on building **fast, reliable websites and web apps for small businesses**.
 
----
-
-##  What I Build
-
-- Core SaaS systems - **auth**, **billing**, **dashboards**, and **admin panels**  
-- Conversion-focused **landing pages** and **waitlist pages**  
-- Scalable and maintainable **backend APIs** with Django REST Framework  
-- Integrations with **Stripe**, **SendGrid**, **Zapier**, and other SaaS tools  
-- Feature upgrades and ongoing maintenance for existing SaaS products  
+I use React, Tailwind CSS, and Django REST Framework to deliver clean, production-ready solutions that are easy to maintain and built to support real business needs.
 
 ---
 
-##  Tech Stack
+## What I Build
 
-- **Frontend:** React, Vite, Tailwind CSS, Axios  
+- Business websites and landing pages designed to attract customers  
+- Custom web apps to simplify workflows and daily operations  
+- Backend APIs that are stable, scalable, and easy to extend  
+- Payment and third-party integrations (e.g. Stripe, email services)  
+- Improvements and ongoing support for existing projects  
+
+---
+
+## Tech Stack
+
+- **Frontend:** React, Typescript, Tailwind CSS  
 - **Backend:** Django REST Framework, PostgreSQL  
-- **Infra & Deployment:** Render, Netlify, Linode  
-- **Tools:** VS Code, Figma, Postman  
-- **Currently Exploring:** Client onboarding flows, automated deployments, and PDF generation  
+- **Deployment:** Render, Vercel, Linode  
 
 ---
 
-##  Contact
+## Contact
 
 - **Email:** [shoaib@gosaasbuild.com](mailto:shoaib@gosaasbuild.com)  
 - **LinkedIn:** [linkedin.com/in/shoaib-gondal-a01a28358](https://www.linkedin.com/in/shoaib-gondal-a01a28358)
 
 ---
 
-> I care about clean UI, fast delivery, and practical SaaS builds that help startups move from idea to launch, efficiently and affordably.
+> I focus on building solutions that are simple, fast, and actually useful for the people running the business.
