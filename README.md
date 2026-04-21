@@ -26,7 +26,7 @@ I use React, Tailwind CSS, and Django REST Framework to deliver clean, productio
 
 ## Contact
 
-- **Email:** [shoaib@gosaasbuild.com](mailto:shoaib@gosaasbuild.com)  
+- **Email:** [codewithshoaib.dev@gmail.com](mailto:codewithshoaib@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/shoaib-gondal-a01a28358](https://www.linkedin.com/in/shoaib-gondal-a01a28358)
 
 ---
